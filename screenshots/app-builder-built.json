@@ -1,0 +1,38 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "The Land of Oz",
+      "hasCanvas": false,
+      "bodyTextLen": 829,
+      "bodyTextHash": "5b86185c902ad70078c7aa51d0a323007ee5a5590887129c55f79bbd76534094",
+      "bodyTextPrefix": "26 The Land of Oz English ordinal, reduction, and reverse ordina",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "The Land of Oz",
+      "hasCanvas": false,
+      "bodyTextLen": 829,
+      "bodyTextHash": "5b86185c902ad70078c7aa51d0a323007ee5a5590887129c55f79bbd76534094",
+      "bodyTextPrefix": "26 The Land of Oz English ordinal, reduction, and reverse ordina",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": false,
+  "baselineReasons": []
+}
